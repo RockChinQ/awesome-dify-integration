@@ -1,6 +1,9 @@
 # awesome-dify-integration
 
-This repository contains a collection of projects / apps that integrated with Dify service API.  
+This repository contains a collection of projects / apps integrated with Dify service API.  
+
+- Any PRs or issues adding projects related to Dify API are welcomed.
+- The language of description depends on the user group of your project.
 
 ## API Compatibility
 
